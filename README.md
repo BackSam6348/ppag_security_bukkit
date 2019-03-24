@@ -1,2 +1,2 @@
 # ppag_security_bukkit
-PPAG Security Bukkit Running PowerShell
+PPAG Security Bukkit Launcher for PowerShell
